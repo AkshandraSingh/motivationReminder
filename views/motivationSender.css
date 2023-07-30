@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    /* color: white; */
+}
+body {
+    background-image: url('https://wallpapercave.com/wp/wp5756393.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin: 25px;
+    list-style: none;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    color: white;
+    margin-bottom: 115px;
+}
+li:hover{
+    cursor: pointer;
+    text-decoration: overline;
+    color: dodgerblue;
+}
+.main-content{
+    width: 388px;
+    height: 278px;
+    margin: auto;
+    flex-wrap: wrap ;
+    padding: 27px;
+    color: white;
+} 
+h3{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 34px;
+    margin: 12px;
+}
+p{
+    font-family: 'Quattrocento', serif;
+    font-weight: bold;
+    margin: 16px;
+}
+input{
+    font-family: 'Patrick Hand', cursive;
+    /* font-weight: bold; */
+    margin: 6px;
+    width: 297px;
+    height: 28px;
+    border-radius: 14px;
+}
+button{
+    font-family: 'Patrick Hand', cursive;
+    margin: 13px;
+    width: 82px;
+    height: 33px;
+    border-radius: 18px;
+    background-color: rgb(243, 21, 76);
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(230, 14, 68);
+    color: white;
+}
