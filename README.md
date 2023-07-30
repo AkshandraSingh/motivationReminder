@@ -7,9 +7,6 @@ Motivational Email Sender is a web application that delivers inspirational and m
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [How to Use](#how-to-use)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
