@@ -18,7 +18,7 @@ The Motivational Email Sender web application allows users to receive encouragin
 ## Features
 
 - Simple and intuitive user interface
-- Quick and easy email subscription process
+- Quick and easy email By Clik on Button
 - Backend powered by Node.js to handle email sending
 - Secure data management for user privacy
 - An inspiring collection of motivational lines
@@ -27,11 +27,10 @@ The Motivational Email Sender web application allows users to receive encouragin
 
 - Frontend: HTML, CSS
 - Backend: Node.js
-- External Libraries/APIs: [List any external libraries or APIs used for email sending]
+- External Libraries/APIs: [express,nodemailer,dotenv,axios,body-parse and nodemon]
 
 ## How to Use
 
-1. Visit the [Motivational Email Sender](https://example.com) web application.
-2. Enter your email address in the subscription box.
-3. Click on the "Subscribe" button.
-4. Keep an eye on your inbox for motivational messages!
+1. Enter your email address
+2. Click on Send Mail
+3. Keep an eye on your inbox for motivational messages!
